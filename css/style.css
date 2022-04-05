@@ -4,3 +4,7 @@ h1{
 body{
     font-family: courier;
 }
+.cabezera-contenido{
+    margin: 100px;
+    border: 1px red solid ;
+}
